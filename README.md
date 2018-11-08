@@ -5,4 +5,4 @@ For Downloading Pre-Trained VGG model-:https://s3-us-west-1.amazonaws.com/udacit
 
 For Downloading the KITTI Dataset-: http://www.cvlibs.net/download.php?file=data_road.zip
 
-The Pre-trained model(on KITTI Dataset) for direct inference can be found-: https://drive.google.com/drive/folders/16EmXscmBPXKgt5Nz35WaCNR_HHdFMNp_?usp=sharing
+The pre-trained model(on KITTI Dataset) for Driveable Road Segmentation for direct inference can be found-: https://drive.google.com/drive/folders/16EmXscmBPXKgt5Nz35WaCNR_HHdFMNp_?usp=sharing
