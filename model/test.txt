@@ -1,0 +1,2 @@
+If you don't want to train or don't have a GPU, here is a pre-trained model on the Kitti Dataset
+https://drive.google.com/open?id=16EmXscmBPXKgt5Nz35WaCNR_HHdFMNp_
